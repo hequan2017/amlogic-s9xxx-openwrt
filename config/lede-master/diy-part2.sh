@@ -50,4 +50,4 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 # git apply ../config/patches/{0001*,0002*}.patch --directory=feeds/luci
 #
 # ------------------------------- Other ends -------------------------------
-
+git clone https://github.com/hequan2017/forcedata-packages-luci.git package/lean/luci-app-forcedata
